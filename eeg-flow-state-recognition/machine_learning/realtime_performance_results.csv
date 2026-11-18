@@ -1,0 +1,11 @@
+Metric,Value
+Window Duration (ms),2000.0
+Window Size (samples),512.0
+Windows Tested,100.0
+Average Feature Preparation (ms),0.710423999971681
+Maximum Feature Preparation (ms),0.9472000001551351
+Average Prediction Time (ms),72.07126299996162
+Maximum Prediction Time (ms),120.50520000047982
+Average Total Processing (ms),72.7816869999333
+Maximum Total Processing (ms),121.16840000089724
+Processing Ratio (%),3.639084349996665

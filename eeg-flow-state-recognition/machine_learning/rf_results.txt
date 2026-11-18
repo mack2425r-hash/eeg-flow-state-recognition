@@ -1,0 +1,27 @@
+RANDOM FOREST FLOW STATE CLASSIFICATION
+=======================================
+
+Dataset Samples : 20283
+Features        : 18
+Training        : 16226
+Testing         : 4057
+
+Accuracy  : 0.6865
+Precision : 0.6895
+Recall    : 0.9583
+F1-Score  : 0.8020
+ROC-AUC   : 0.5924
+
+Confusion Matrix:
+[[ 209 1160]
+ [ 112 2576]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Non-Flow       0.65      0.15      0.25      1369
+        Flow       0.69      0.96      0.80      2688
+
+    accuracy                           0.69      4057
+   macro avg       0.67      0.56      0.52      4057
+weighted avg       0.68      0.69      0.61      4057
